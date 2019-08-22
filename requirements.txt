@@ -1,6 +1,6 @@
 numpy
 pillow
-urllib2
+scikit-image
 matplotlib
 ipywidgets
 jupyter_contrib_nbextensions
